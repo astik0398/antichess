@@ -27,12 +27,12 @@
   }
 
 .white{
-    color: #ffc6c6;
+    color: #000000;
     cursor: pointer;
   }
 
   .black{
-    color: #000000;
+    color: #ffffff;
     cursor: pointer;
   }
 
@@ -73,4 +73,5 @@
   button:hover{
     transform: scale(1.1);
   }
+  
   
