@@ -12,7 +12,6 @@
     margin: auto;
     margin-top: 10px;
     width: 680px;
-    border: 2px solid #a26a3f;
     padding: 0;
     list-style-type: none;
   }
@@ -41,7 +40,7 @@
   }
   
   .chessboard li.dark {
-    background-color: #744e29; 
+    background-color: #4b6b34; 
   }
   
   .chessboard li.light {
